@@ -11,10 +11,30 @@ body{
     justify-content: center;
 }
 
+.player1{
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    float: left;
+}
+
+.scoreboard{
+    clear: both;
+    text-align: center;
+}
+
+.player2{
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    float: left;
+}
+
+
 .container{
     border-radius: 20px;
     background: #14BDAC;
-    margin: 50px;
+    margin: 0px;
     padding: 50px;
 }
 
